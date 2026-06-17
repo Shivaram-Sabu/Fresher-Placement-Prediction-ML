@@ -1,6 +1,6 @@
 🎓 Entry-Level Tech Market Hiring Predictor
 
-🚀 Try the Live Web Application Here![https://freshersjoblens.lovable.app]
+🚀[ Try the Live Web Application Here!](https://freshersjoblens.lovable.app)
 
 📌 Project Overview
 
